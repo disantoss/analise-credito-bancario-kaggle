@@ -55,7 +55,8 @@ O Dashboard foi construído no **Looker Studio**, utilizando a identidade visual
 
 🚀 **[CLIQUE AQUI PARA ACESSAR O DASHBOARD INTERATIVO](https://lookerstudio.google.com/reporting/1531fc16-f459-4f33-90fc-f0e5469eb261)**
 
-<img width="900" alt="dashboard_risco_credito" src="COLOQUE_O_LINK_DA_SUA_IMAGEM_AQUI" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/946983b6-0369-4481-9105-bea20cec1c21" />
+
 
 ---
 
